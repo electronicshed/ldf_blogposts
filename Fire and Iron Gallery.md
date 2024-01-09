@@ -17,6 +17,3 @@
 </ul>
 <p><a href="https://littleduckforge.co.uk/wp/2023/04/22/galleries/" title="Futher details of galleries">Futher details of galleries</a></p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODI3NTA1Ml19
--->
