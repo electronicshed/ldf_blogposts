@@ -1,5 +1,5 @@
-<h3 id="little-duck-forge-at-the-fire-and-iron-gallery">### Little Duck Forge at the Fire and Iron Gallery</h3>
-<p></p><p>![](<a href="https://mcusercontent.com/73e65f6b67c97cb56f92b1fef/images/fc93fda2-4ad5-b1f8-1f92-68ffad03bc32.jpg">img src="
+### Little Duck Forge at the Fire and Iron Gallery
+![](<a href="https://mcusercontent.com/73e65f6b67c97cb56f92b1fef/images/fc93fda2-4ad5-b1f8-1f92-68ffad03bc32.jpg">img src="
 
 ![](https://mcusercontent.com/73e65f6b67c97cb56f92b1fef/images/fc93fda2-4ad5-b1f8-1f92-68ffad03bc32.jpg</a>" alt=""&gt;></p>
 <p><em>)
@@ -47,5 +47,5 @@ _[Fire and Iron Gallery](https://www.fireandiron.co.uk/"&gt;>Fire and Iron Galle
 )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTI0NTExOF19
+eyJoaXN0b3J5IjpbMTI5NTg2NzA4MSwtMzM5MjQ1MTE4XX0=
 -->
