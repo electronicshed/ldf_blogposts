@@ -9,7 +9,7 @@
 <li>Salt Marsh Gallery, Lymington</li>
 <li>Obsidian Art Gallery, Stoke Mandeville</li>
 <li>Mill Bridge Gallery, Skipton</li>
-<li>Lilford Gallery &amp; Framers, Canterbury</li>
+<li>Lilford Gallery & Framers, Canterbury</li>
 <li>Westgate Galleria, Margate</li>
 <li>The Eclectic Art Gallery, Margate</li>
 <li>Anthony Giles, The Margate Studio and Gallery, Margate</li>
@@ -17,3 +17,6 @@
 </ul>
 <p><a href="https://littleduckforge.co.uk/wp/2023/04/22/galleries/" title="Futher details of galleries">Futher details of galleries</a></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTcyMTk0NzA0M119
+-->
